@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: sinhar
+Build-Jdk: 1.7.0_71
+Extension-Name: vrcs-jenkins
+Specification-Title: This is a VMware vRealize Code Stream Plugin
+Implementation-Title: vrcs-jenkins
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: com.vmware.vrcs
+Short-Name: vrcs-jenkins
+Long-Name: VMware vRealize Code Stream Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-03/27/2015 03:22-sinhar)
+Hudson-Version: 1.580.1
+Jenkins-Version: 1.580.1
+Plugin-Developers: 
+

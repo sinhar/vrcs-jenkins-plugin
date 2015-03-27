@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='com.vmware.vrcs' artifactId='vrcs-jenkins' version='1.0-SNAPSHOT'><l:dependency name='VMware vRealize Code Stream Plugin' groupId='com.vmware.vrcs' artifactId='vrcs-jenkins' version='1.0-SNAPSHOT' url='https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin'><l:description>This is a VMware vRealize Code Stream Plugin</l:description><l:license name='MIT License' url='http://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>
